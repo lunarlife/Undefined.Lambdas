@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undefined.Lambdas.Abstraction", "Undefined.Lambdas.Abstraction\Undefined.Lambdas.Abstraction.csproj", "{67937BFA-E2BD-4AE6-A02A-2A0DE9CCB63D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undefined.Lambdas", "Undefined.Lambdas\Undefined.Lambdas.csproj", "{D42D3614-CA6F-450C-A290-0D96DEA68776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undefined.Lambdas.Tests", "Undefined.Lambdas.Tests\Undefined.Lambdas.Tests.csproj", "{CE69A2FE-35CD-4985-9DD5-782D01321B68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67937BFA-E2BD-4AE6-A02A-2A0DE9CCB63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67937BFA-E2BD-4AE6-A02A-2A0DE9CCB63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67937BFA-E2BD-4AE6-A02A-2A0DE9CCB63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67937BFA-E2BD-4AE6-A02A-2A0DE9CCB63D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42D3614-CA6F-450C-A290-0D96DEA68776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42D3614-CA6F-450C-A290-0D96DEA68776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42D3614-CA6F-450C-A290-0D96DEA68776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42D3614-CA6F-450C-A290-0D96DEA68776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE69A2FE-35CD-4985-9DD5-782D01321B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE69A2FE-35CD-4985-9DD5-782D01321B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE69A2FE-35CD-4985-9DD5-782D01321B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE69A2FE-35CD-4985-9DD5-782D01321B68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
